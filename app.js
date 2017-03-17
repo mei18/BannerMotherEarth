@@ -1,5 +1,5 @@
 
-TweenMax.from(".tree", 2, {xPercent: +3, ease:Power1.easeOut,repeat:18,delay:1,yoyo:true});
+TweenMax.from(".tree", 1, {xPercent: +1, ease:Power1.easeOut,repeat:18,delay:1,yoyo:true});
 TweenMax.from(".tree2", 1, {xPercent: -7, ease:Power1.easeOut,repeat:18,delay:1,yoyo:true});
 TweenMax.from(".cloud", 10, {xPercent: +150, ease:Power1.easeOut,delay:1});
 TweenMax.from(".cloud2", 10, {xPercent: -100, ease:Power1.easeOut,delay:1});
